@@ -88,7 +88,7 @@
 
 									// Deactivate section.
 										if (browser.canUse('transition'))
-											$section.addClass('inactive');
+										$section.addClass('inactive');
 
 								},
 								enter: function() {
